@@ -6,6 +6,8 @@ Portfolio of **Sharath B S** — [sharathbio123.github.io](https://sharathbio123
 
 All media files go in **`public/`** (served at the site root after deploy). Push changes to **`main`** — GitHub Actions rebuilds the site automatically.
 
+> **Note:** Gallery and blog sections are not shown on the live site yet. Use the steps below when you are ready to add them back in `index.html`.
+
 ### Profile photo
 
 | File | Location |
